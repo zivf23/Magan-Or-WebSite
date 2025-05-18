@@ -132,7 +132,7 @@
     color: #fff;
     padding: 4em 1.5em;
     text-align: center;
-    background-image: url('assets/images/logo.png');
+    background-image: url('./assets/images/logo.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 150px 150px;
